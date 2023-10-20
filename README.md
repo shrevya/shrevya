@@ -8,7 +8,7 @@ I began my journey into the data world  during my undergraduate studies in Neuro
 
 
 ### What You'll Find Here
-In this README, you'll discover an overview of my skills, experiences, and projects. Whether you're a fellow data enthusiast, a potential collaborator, or simply someone interested in the world of data, I hope this README provides you with valuable insights and a sense of who I am.
+In this FILE, you'll discover an overview of my skills, experiences, and projects. Whether you're a fellow data enthusiast, a potential collaborator, or simply someone interested in the world of data, I hope this README provides you with valuable insights and a sense of who I am.
 
 
 - 🌱 I’m currently learning about machine learning and various testing models.
