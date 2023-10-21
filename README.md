@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shrevya!'m a Data Scientist with a passion for unraveling the stories hidden within data. With a keen eye for patterns and a knack for turning raw information into meaningful insights, I thrive in the world of data.🤗
 
 ### About Me
-I've always been curious about the world around me and have found that data analysis is a fascinating way to satisfy that curiosity. Over the years, I've honed my skills in data analysis, data visualization, statistical modeling, and machine learning. I'm excited to share my experiences and insights with you.
+I've always been curious about the world around me and have found that data analysis is a fascinating way to satisfy that curiosity. Over time, I've honed my skills in data analysis, data visualization, statistical modeling, and machine learning. I'm excited to share my experiences and insights with you.
 
 ### My Journey🔭
 I began my journey into the data world  during my undergraduate studies in Neurosciences and have since had the opportunity to work on a wide range of projects, from business analytics to predictive modeling. Along the way, I've encountered challenges, learned from successes and failures, and grown both professionally and personally.
